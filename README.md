@@ -4,7 +4,7 @@
 
 Karachi. Pakistan ( 🇵🇰 ) </br>
 Email: personalhussaino0@gmail.com </br>
-linkedIn : 
+linkedIn : <a href="www.linkedin.com/in/jawadhussainkourejo">in/jawadhussainkourejo</a>
 
 ##
 
@@ -12,7 +12,7 @@ linkedIn :
 ## About Me
 
 I am a young developer from Karachi (Pakistan) with strong dedication to learning and building impactful projects. I am fluent in English, Urdu, Hindi (script), Sindhi and good enough technical communication in coding and documentation format. My goal is to become a highly skilled DevOps Engineer + Full Stack Developer + Data Scientists & Analyst and work on Professional & production-level systems that solve real-world problems.
-I don’t just write code — but I can build solutions that make an impact. Freelance Full Stack Developer | Computer Vision Enthusiast | DevOps Engineer | Data Science % Analysis | Cloud Engineer | Graphic Designer
+I don’t just write code — but I can build solutions that make an impact. Freelance Full Stack Developer | Computer Vision Enthusiast | DevOps Engineer | Data Science & Analysis | Cloud Engineer | Graphic Designer
 
 I'm a passionate and motivated software developer specializing in Full Stack Web Development, DevOps Engineer, Game Develloper, Computer Vision, and Graphic Design. I enjoy building real-world, scalable, and user-friendly digital solutions that combine both development and creativity. I have hands-on experience working with technologies such as MERN Stack, Next.js, Python, OpenCV, Docker, and Kubernetes. 
 I am also skilled in UI/UX and graphic design tools, which helps me create visually appealing and functional interfaces. Currently, I am pursuing my Computer Science education and continuously improving my skills in cloud computing, backend systems, and automation (DevOps).
@@ -27,7 +27,7 @@ I am also skilled in UI/UX and graphic design tools, which helps me create visua
 
 ##
 
-<h2 align="center">~~~~~~~~~~~~~ My Tech Stack ~~~~~~~~~~~~~</h2>
+<h2 align="center">- : My Tech Stack : - <h2>
 
 
 ### 🌐 Full Stack Development (Web and Mobile Application)
@@ -110,8 +110,14 @@ I am also skilled in UI/UX and graphic design tools, which helps me create visua
 ##
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JAWADHUSSAINKOUREJO-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/JAWADHUSSAINKOUREJO)
-[![Email](https://img.shields.io/badge/Email-PERSONALHUSSAIN00@GMAIL.COM-D14836?style=for-the-badge&logo=gmail)](mailto:PERSONALHUSSAIN00@GMAIL.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/jawadhussainkourejo-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jawadhussainkourejo)
+[![Email](https://img.shields.io/badge/Email-personalhussain00@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:personalhussain00@gmail.com) 
+</br>
+</br>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jawad-Kourejo)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
 
 ##
 
@@ -137,7 +143,7 @@ I am also skilled in UI/UX and graphic design tools, which helps me create visua
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,mysql,py,azure,vscode,pycharm,aws,bash,linux,power-bi,arduino,office," />
+  <img src="https://skillicons.dev/icons?i=azure,vscode,aws,bash,androidstudio,arduino,docker,ai,ps,xd,nextjs,pytorch,tailwind,ubuntu" />
 </p>
 
 ---
@@ -160,3 +166,4 @@ I am also skilled in UI/UX and graphic design tools, which helps me create visua
 <h2 align="center"> My Projects ( Shortcuts )</h2>
 
 ### FULL STACK WEB DEVELOPMENT
+![](https://img.shields.io/badge/_PROJECT_03-NEW_PROJECT_(_THERE_IS_NO_PROJECT_,_IT_JUST_A_DEMO_)-ffffff?style=for-the-badge&logo=javascript&logoColor=white)
