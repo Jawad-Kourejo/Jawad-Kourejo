@@ -12,7 +12,7 @@ linkedIn : <a href="www.linkedin.com/in/jawadhussainkourejo">in/jawadhussainkour
 ## About Me
 
 I am a young developer from Karachi (Pakistan) with strong dedication to learning and building impactful projects. I am fluent in English, Urdu, Hindi (script), Sindhi and good enough technical communication in coding and documentation format. My goal is to become a highly skilled DevOps Engineer + Full Stack Developer + Data Scientists & Analyst and work on Professional & production-level systems that solve real-world problems.
-I don’t just write code — but I can build solutions that make an impact. Freelance Full Stack Developer | Computer Vision Enthusiast | DevOps Engineer | Data Science & Analysis | Cloud Engineer | Graphic Designer
+I don’t just write code — but I can build solutions that make an impact. </br> Freelance Full Stack Developer | Computer Vision Enthusiast | DevOps Engineer | Data Science & Analysis | Graphic Designer
 
 I'm a passionate and motivated software developer specializing in Full Stack Web Development, DevOps Engineer, Game Develloper, Computer Vision, and Graphic Design. I enjoy building real-world, scalable, and user-friendly digital solutions that combine both development and creativity. I have hands-on experience working with technologies such as MERN Stack, Next.js, Python, OpenCV, Docker, and Kubernetes. 
 I am also skilled in UI/UX and graphic design tools, which helps me create visually appealing and functional interfaces. Currently, I am pursuing my Computer Science education and continuously improving my skills in cloud computing, backend systems, and automation (DevOps).
