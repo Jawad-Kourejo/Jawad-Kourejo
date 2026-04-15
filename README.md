@@ -137,7 +137,7 @@ I am also skilled in UI/UX and graphic design tools, which helps me create visua
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,mysql,py,azure,vscode,pycharm,aws,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=js,mysql,py,azure,vscode,pycharm,aws,bash,linux,power-bi,arduino,office," />
 </p>
 
 ---
