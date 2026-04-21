@@ -110,7 +110,7 @@ linkedIn : <a href="www.linkedin.com/in/www.linkedin.com/in/jawadhoseyn">Jawad (
 ##
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jawad_Hussain_Kourejo-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jawadhussainkourejo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jawad_Hussain_Kourejo-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jawadhoseyn)
 [![Email](https://img.shields.io/badge/Email-personalhussain00@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:personalhussain00@gmail.com) 
 </br>
 </br>
