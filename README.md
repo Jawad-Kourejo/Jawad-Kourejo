@@ -4,18 +4,18 @@
 
 Karachi. Pakistan ( 🇵🇰 ) </br>
 Email: personalhussaino0@gmail.com </br>
-linkedIn : <a href="www.linkedin.com/in/jawadhussainkourejo">in/jawadhussainkourejo</a>
+linkedIn : <a href="www.linkedin.com/in/www.linkedin.com/in/jawadhoseyn">Jawad (Hussain) Kourejo</a>
 
 ##
 
 
 ## About Me
 
-I am a young developer from Karachi (Pakistan) with strong dedication to learning and building impactful projects. I am fluent in English, Urdu, Hindi (script), Sindhi and good enough technical communication in coding and documentation format. My goal is to become a highly skilled DevOps Engineer + Full Stack Developer + Data Scientists & Analyst and work on Professional & production-level systems that solve real-world problems.
-I don’t just write code — but I can build solutions that make an impact. </br> Freelance Full Stack Developer | Computer Vision Enthusiast | DevOps Engineer | Data Science & Analysis | Graphic Designer
+<p align="justify"> I am a young developer from Karachi (Pakistan) with strong dedication to learning and building impactful projects. I am fluent in English, Urdu, Hindi (script), Sindhi and good enough technical communication in coding and documentation format. My goal is to become a highly skilled DevOps Engineer + Full Stack Developer + Data Scientists & Analyst and work on Professional & production-level systems that solve real-world problems. </p>
+<p align="justify"> I don’t just write code — but I can build solutions that make an impact. </br> Freelance Full Stack Developer | Computer Vision Enthusiast | DevOps Engineer | Data Science & Analysis | Graphic Designer</p>
 
-I'm a passionate and motivated software developer specializing in Full Stack Web Development, DevOps Engineer, Game Develloper, Computer Vision, and Graphic Design. I enjoy building real-world, scalable, and user-friendly digital solutions that combine both development and creativity. I have hands-on experience working with technologies such as MERN Stack, Next.js, Python, OpenCV, Docker, and Kubernetes. 
-I am also skilled in UI/UX and graphic design tools, which helps me create visually appealing and functional interfaces. Currently, I am pursuing my Computer Science education and continuously improving my skills in cloud computing, backend systems, and automation (DevOps).
+<p align="justify"> I'm a passionate and motivated software developer specializing in Full Stack Web Development, DevOps Engineer, Game Develloper, Computer Vision, and Graphic Design. I enjoy building real-world, scalable, and user-friendly digital solutions that combine both development and creativity. I have hands-on experience working with technologies such as MERN Stack, Next.js, Python, OpenCV, Docker, and Kubernetes. </p>
+<p align="justify"> I am also skilled in UI/UX and graphic design tools, which helps me create visually appealing and functional interfaces. Currently, I am pursuing my Computer Science education and continuously improving my skills in cloud computing, backend systems, and automation (DevOps).</p>
 
 - Web Development (Frontend + Backend)
 -  DevOps & Cloud Engineering
@@ -110,7 +110,7 @@ I am also skilled in UI/UX and graphic design tools, which helps me create visua
 ##
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/jawadhussainkourejo-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jawadhussainkourejo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jawad_Hussain_Kourejo-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jawadhussainkourejo)
 [![Email](https://img.shields.io/badge/Email-personalhussain00@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:personalhussain00@gmail.com) 
 </br>
 </br>
