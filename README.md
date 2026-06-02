@@ -163,12 +163,12 @@ linkedIn : <a href="https://www.linkedin.com/in/jawadhoseyn/">Jawad (Hussain) Ko
 ---
 
 
-<h2 align="center"> My Projects ( Shortcuts )</h2>
+<h2 align="center"> My Projects ( Shortcuts ) : click to check the project</h2>
 
 ### UX/UI DESIGNING :
-[![](https://img.shields.io/badge/Figma-UX_/_UI_Design-0077B5?style=for-the-badge&logo=linkedin)](https://github.com/Jawad-Kourejo/my-figma-work)
+[![](https://img.shields.io/badge/Figma-UX_/_UI_Design-f077B5?style=for-the-badge&logo=linkedin)](https://github.com/Jawad-Kourejo/my-figma-work)
 
---
+---
 
 ### ANIMATED WEB :
 [![](https://img.shields.io/badge/ANIMATED_CURSOR_USING_GSAP-0077B5?style=for-the-badge&logo=linkedin)](https://jawad-kourejo.github.io/animated-cursor-with-gsap/)
